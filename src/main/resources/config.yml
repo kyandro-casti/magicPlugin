@@ -1,0 +1,7 @@
+abilities:
+  InvocareLupus:
+    wolfs: 3
+  Fireball:
+    range: 10.0
+    damage: 20.0
+    shots: 1

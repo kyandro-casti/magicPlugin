@@ -1,0 +1,8 @@
+name: magicPlugin
+version: '${project.version}'
+main: me.hephaestus.magicplugin.MagicPlugin
+api-version: '1.18'
+commands:
+  spells:
+    usage: /<command>
+    description: allows you to add spells

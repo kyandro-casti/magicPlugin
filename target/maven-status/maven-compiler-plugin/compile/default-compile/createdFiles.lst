@@ -1,0 +1,6 @@
+me\hephaestus\magicplugin\Util\MagicWand.class
+me\hephaestus\magicplugin\MagicPlugin.class
+me\hephaestus\magicplugin\Util\inventUtil.class
+me\hephaestus\magicplugin\Commands\setSpells.class
+me\hephaestus\magicplugin\Listener\joinFirstTime.class
+me\hephaestus\magicplugin\Listener\useMagic.class
